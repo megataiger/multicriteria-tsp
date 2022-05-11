@@ -1,0 +1,7 @@
+#Libriares
+venv
+.idea
+__pycache__
+
+#Output
+.txt
